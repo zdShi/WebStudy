@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Demo from './02_lazyLoad_route'
+import Demo from './03_funComponent_state'
 
 class App extends Component {
   render() {
