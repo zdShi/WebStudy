@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Demo from './03_funComponent_state'
+import Demo from './04_useEffect'
 
 class App extends Component {
   render() {
