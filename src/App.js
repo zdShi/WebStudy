@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Demo from './08_PureComponent'
+import Demo from './09_components'
 
 class App extends Component {
   render() {
